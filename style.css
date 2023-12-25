@@ -36,6 +36,10 @@ li {
     border-bottom: 1px solid lightgrey;
 }
 
+.task:hover {
+    text-decoration-line: line-through;
+}
+
 .new-task-container {
     width: 80%;
     margin: 1.5em auto
